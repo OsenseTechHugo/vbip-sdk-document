@@ -20,5 +20,5 @@ easy-to-use, compact design, reasonably priced indoor positioning and navigation
 
 ## Reference
 
-![Logo](./iOS/documents/resources/logo.png "OSENSE Logo")
+![Logo](./iOS/documents/resources/logo.png "OSENSE Logo")  
 [OSENSE TECHNOLOGY CO.](http://www.osensetech.com/index.html)

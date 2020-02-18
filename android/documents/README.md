@@ -12,6 +12,7 @@ easy-to-use, compact design, reasonably priced indoor positioning and navigation
 ---
 
 ## Categories
+
 * [Advertisement / POI](./POI.md) - Allows an application to get POIs from server.
 
 ---
