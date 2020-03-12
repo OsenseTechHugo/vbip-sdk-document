@@ -1,4 +1,4 @@
-# Osense VBIP SDK Documentation
+# Osense VBIP iOS SDK Documentation
 
 ----------
 
@@ -11,15 +11,14 @@ easy-to-use, compact design, reasonably priced indoor positioning and navigation
 
 ----------
 
-## Platforms
+## Categories
 
-* [Unity](./unity/documents/README.md)
-* [iOS](./iOS/documents/README.md)
-* [Android](./android/documents/README.md)
+* [Advertisement / QueryAllPOI](./QueryAllPOI.md) - Allows an application to get the all of POIs from server.
+* [Location / QueryLocation](./QueryLocation.md) - Allows an application to upload a image and get the information of current location from server.
 
 ----------
 
 ## Reference
 
-![Logo](./iOS/documents/resources/logo.png "OSENSE Logo")  
+![Logo](./resources/logo.png "OSENSE Logo")  
 [OSENSE TECHNOLOGY CO.](http://www.osensetech.com/index.html)
