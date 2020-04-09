@@ -116,3 +116,23 @@ public class Controller : MonoBehaviour
     }
 }
 ```
+## Usage
+In "Hierarchy" window, select the GameObject "Main Camera", as shown below.
+
+![Hierarchy window](./resources/1.jpg "Hierarchy window") 
+
+In "Project" window, drag script "Controller" into "Inspector" window, as shown below.
+
+![Project window](./resources/2.jpg "Project window") 
+
+As you can see, script "Controller" is the component of GameObject "Main Camera".
+
+![Component](./resources/3.jpg "Component") 
+
+Now you can click the "Play" button to run the scene, as shown below.
+
+![Play](./resources/4.jpg "Play") 
+
+Or, select the target platform you want to build, as shown below.
+
+![Build](./resources/5.jpg "Build") 
