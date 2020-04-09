@@ -119,7 +119,7 @@ public class Controller : MonoBehaviour
 ## Usage
 In "Hierarchy" window, select the GameObject "Main Camera", as shown below.
 
-![Hierarchy window](https://github.com/OsenseTechHugo/vbip-sdk-document/blob/master/unity/documents/resources/1.jpg "Hierarchy window") 
+![Hierarchy window](./resources/1.jpg "Hierarchy window") 
 
 In "Project" window, drag script "Controller" into "Inspector" window, as shown below.
 
